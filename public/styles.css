@@ -9,6 +9,8 @@ html {
 body {
   background: #eee;
   padding: 0 16px;
+  background-color: #cc8800;
+  background-image: url("https://www.transparenttextures.com/patterns/asfalt-dark.png");
 }
 
 header {
@@ -59,7 +61,8 @@ footer p {
   position: relative;
   float: right;
   margin-right: 10px;
-  color: #f5ba13;
+  background: #f5ba13;
+  color: #fff;
   border: none;
   width: 36px;
   height: 36px;
